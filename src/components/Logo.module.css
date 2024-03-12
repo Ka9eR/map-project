@@ -1,0 +1,13 @@
+.logo {
+  height: 5.2rem !important;
+  width: 5.2rem !important;
+}
+
+.flex {
+  display: flex;
+}
+
+.text {
+  margin-top: 10px;
+  color: #eff6ff;
+}
